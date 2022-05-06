@@ -27,7 +27,8 @@ ColorCode.AcceptanceTests/Data/fsharp/fsharp-tutorial.actual.html
 ColorCode.AcceptanceTests/obj/
 ColorCode.Facts.xunit.results.xml
 _ReSharper.ColorCode/
-.vs
+.vs/
+.idea/
 
 # User-specific files
 *.suo
